@@ -135,7 +135,7 @@ accuracy and the validity of statistical inference.
 
 ## Dashboard Overview
 
-The Streamlit app (`app.py`) is organized into three tabs:
+The [Streamlit app](https://202618008-ds602-afy9ylvkonx3prcvcezn6u.streamlit.app/) (`app.py`) is organized into three tabs:
 
 1. **Data Exploration** — Sidebar filters (age, BMI, charges range, region, smoker, sex) with
    reactive Plotly/Seaborn visualizations and live summary statistics.
